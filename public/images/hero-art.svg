@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 490" role="img" aria-label="Front-loading washing machine">
+  <defs>
+    <pattern id="hz" width="28" height="28" patternUnits="userSpaceOnUse" patternTransform="rotate(-45)">
+      <rect width="14" height="28" fill="#f2c200"/>
+      <rect x="14" width="14" height="28" fill="#000"/>
+    </pattern>
+    <clipPath id="drum"><circle cx="200" cy="290" r="98"/></clipPath>
+  </defs>
+  <rect x="22" y="18" width="356" height="440" rx="14" fill="#151515" stroke="#f2c200" stroke-width="6"/>
+  <line x1="22" y1="112" x2="378" y2="112" stroke="#f2c200" stroke-width="4"/>
+  <circle cx="72" cy="66" r="20" fill="none" stroke="#f2c200" stroke-width="4"/>
+  <line x1="72" y1="66" x2="84" y2="52" stroke="#f2c200" stroke-width="4" stroke-linecap="round"/>
+  <rect x="120" y="46" width="136" height="40" fill="#000" stroke="#555" stroke-width="3"/>
+  <text x="134" y="75" font-family="Consolas, monospace" font-size="24" fill="#f2c200">00:42</text>
+  <circle cx="300" cy="66" r="11" fill="#f2c200"/>
+  <circle cx="340" cy="66" r="11" fill="none" stroke="#777" stroke-width="3"/>
+  <circle cx="200" cy="290" r="140" fill="#0b0b0b" stroke="#f2c200" stroke-width="9"/>
+  <circle cx="200" cy="290" r="112" fill="#10151a" stroke="#555" stroke-width="6"/>
+  <g clip-path="url(#drum)">
+    <ellipse cx="160" cy="320" rx="52" ry="26" fill="#f2c200" transform="rotate(-24 160 320)"/>
+    <ellipse cx="236" cy="262" rx="46" ry="22" fill="#6b6b6b" transform="rotate(34 236 262)"/>
+    <ellipse cx="214" cy="340" rx="44" ry="20" fill="#d8d8d8" transform="rotate(8 214 340)"/>
+    <ellipse cx="150" cy="248" rx="34" ry="16" fill="#3a3a3a" transform="rotate(52 150 248)"/>
+  </g>
+  <path d="M120 232 A98 98 0 0 1 188 196" fill="none" stroke="#ffffff" stroke-opacity="0.35" stroke-width="7" stroke-linecap="round"/>
+  <rect x="22" y="432" width="356" height="26" fill="url(#hz)"/>
+  <rect x="64" y="458" width="46" height="20" fill="#000" stroke="#f2c200" stroke-width="3"/>
+  <rect x="290" y="458" width="46" height="20" fill="#000" stroke="#f2c200" stroke-width="3"/>
+</svg>
