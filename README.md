@@ -34,6 +34,7 @@ php artisan serve
 ```
 
 Open http://127.0.0.1:8000
+
 Open Live : https://laundry-desk-lk03.onrender.com/
 
 ## Demo accounts
