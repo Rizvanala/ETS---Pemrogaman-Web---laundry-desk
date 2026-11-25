@@ -33,7 +33,7 @@ php artisan migrate:fresh --seed
 php artisan serve
 ```
 
-Open http://127.0.0.1:8000
+Open http: [//127.0.0.1:8000](http://localhost:8080/bill.jsp?id=29)
 
 Open Live : https://laundry-desk-lk03.onrender.com/
 
